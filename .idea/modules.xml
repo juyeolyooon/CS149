@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PA1/PA1.iml" filepath="$PROJECT_DIR$/PA1/PA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA10/PA10.iml" filepath="$PROJECT_DIR$/PA10/PA10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA2/PA2.iml" filepath="$PROJECT_DIR$/PA2/PA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA3/PA3.iml" filepath="$PROJECT_DIR$/PA3/PA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA4/PA4.iml" filepath="$PROJECT_DIR$/PA4/PA4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA5/PA5.iml" filepath="$PROJECT_DIR$/PA5/PA5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA6/PA6.iml" filepath="$PROJECT_DIR$/PA6/PA6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA7/PA7.iml" filepath="$PROJECT_DIR$/PA7/PA7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA8/PA8.iml" filepath="$PROJECT_DIR$/PA8/PA8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA9/PA9.iml" filepath="$PROJECT_DIR$/PA9/PA9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/solution.iml" filepath="$PROJECT_DIR$/.idea/solution.iml" />
+    </modules>
+  </component>
+</project>
